@@ -797,8 +797,3 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   align-content: flex-end;
   flex-wrap: wrap;
 }
-
-/* .footer-form-input:hover,
-.footer-form-input:focus{
-box-shadow: var(--shadow-form-footer-15);
-} */
